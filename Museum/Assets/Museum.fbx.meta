@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: c69de8c971f398844aac2b4ab8bca885
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: b56becd5ff494f408227f635b1929f0f
+    100002: b56becd5ff494f408227f635b1929f0f_MeshPart0
+    100004: b56becd5ff494f408227f635b1929f0f_MeshPart1
+    100006: b56becd5ff494f408227f635b1929f0f_MeshPart2
+    100008: b56becd5ff494f408227f635b1929f0f_MeshPart3
+    100010: b56becd5ff494f408227f635b1929f0f_MeshPart4
+    100012: b56becd5ff494f408227f635b1929f0f_MeshPart5
+    100014: "Gel\xE4nderOben"
+    100016: "Gel\xE4nderUnten"
+    100018: //RootNode
+    100020: Plane
+    100022: Plane.001
+    100024: Plane.002
+    100026: Plane.003
+    100028: Plane.004
+    100030: Plane.005
+    100032: Point
+    100034: Rahmen1
+    100036: Sun
+    100038: Sun.001
+    100040: "T\xFCr"
+    400000: b56becd5ff494f408227f635b1929f0f
+    400002: b56becd5ff494f408227f635b1929f0f_MeshPart0
+    400004: b56becd5ff494f408227f635b1929f0f_MeshPart1
+    400006: b56becd5ff494f408227f635b1929f0f_MeshPart2
+    400008: b56becd5ff494f408227f635b1929f0f_MeshPart3
+    400010: b56becd5ff494f408227f635b1929f0f_MeshPart4
+    400012: b56becd5ff494f408227f635b1929f0f_MeshPart5
+    400014: "Gel\xE4nderOben"
+    400016: "Gel\xE4nderUnten"
+    400018: //RootNode
+    400020: Plane
+    400022: Plane.001
+    400024: Plane.002
+    400026: Plane.003
+    400028: Plane.004
+    400030: Plane.005
+    400032: Point
+    400034: Rahmen1
+    400036: Sun
+    400038: Sun.001
+    400040: "T\xFCr"
+    2300000: b56becd5ff494f408227f635b1929f0f_MeshPart0
+    2300002: b56becd5ff494f408227f635b1929f0f_MeshPart1
+    2300004: b56becd5ff494f408227f635b1929f0f_MeshPart2
+    2300006: b56becd5ff494f408227f635b1929f0f_MeshPart3
+    2300008: b56becd5ff494f408227f635b1929f0f_MeshPart4
+    2300010: b56becd5ff494f408227f635b1929f0f_MeshPart5
+    2300012: "Gel\xE4nderOben"
+    2300014: "Gel\xE4nderUnten"
+    2300016: Plane
+    2300018: Plane.001
+    2300020: Plane.002
+    2300022: Plane.003
+    2300024: Plane.004
+    2300026: Plane.005
+    2300028: Rahmen1
+    2300030: "T\xFCr"
+    3300000: b56becd5ff494f408227f635b1929f0f_MeshPart0
+    3300002: b56becd5ff494f408227f635b1929f0f_MeshPart1
+    3300004: b56becd5ff494f408227f635b1929f0f_MeshPart2
+    3300006: b56becd5ff494f408227f635b1929f0f_MeshPart3
+    3300008: b56becd5ff494f408227f635b1929f0f_MeshPart4
+    3300010: b56becd5ff494f408227f635b1929f0f_MeshPart5
+    3300012: "Gel\xE4nderOben"
+    3300014: "Gel\xE4nderUnten"
+    3300016: Plane
+    3300018: Plane.001
+    3300020: Plane.002
+    3300022: Plane.003
+    3300024: Plane.004
+    3300026: Plane.005
+    3300028: Rahmen1
+    3300030: "T\xFCr"
+    4300000: Rahmen1
+    4300002: "Gel\xE4nderUnten"
+    4300004: "Gel\xE4nderOben"
+    4300006: "T\xFCr"
+    4300008: b56becd5ff494f408227f635b1929f0f_MeshPart0
+    4300010: b56becd5ff494f408227f635b1929f0f_MeshPart1
+    4300012: b56becd5ff494f408227f635b1929f0f_MeshPart2
+    4300014: b56becd5ff494f408227f635b1929f0f_MeshPart3
+    4300016: b56becd5ff494f408227f635b1929f0f_MeshPart4
+    4300018: b56becd5ff494f408227f635b1929f0f_MeshPart5
+    4300020: Plane.005
+    4300022: Plane.004
+    4300024: Plane.003
+    4300026: Plane.002
+    4300028: Plane.001
+    4300030: Plane
+    10800000: Point
+    10800002: Sun
+    10800004: Sun.001
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ecken
+    second: {fileID: 2100000, guid: b8e52d2d9a1c36e4eb2b548ea2e15520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ground
+    second: {fileID: 2100000, guid: 9340bb8c54772cc44816406191a5389f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 2413d3677f9b8be4294324af9dcffeb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 0bf72c5e5f2b60f44a6199e637a71dac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: aa639259916c6f3478e77bc770f2ab6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: fdd176d655f11ca44b5e7a04202b987a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 17c6702f0b081e142abcd3b4c4675224, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 8e8bc8312c3c787479c17fe802ffc233, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
